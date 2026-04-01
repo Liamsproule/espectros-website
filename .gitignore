@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# screenshots
+*.png
+
+# context and references (business docs, not code)
+/context/
+/references/
