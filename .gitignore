@@ -42,6 +42,7 @@ next-env.d.ts
 
 # screenshots
 *.png
+!src/app/apple-icon.png
 
 # context and references (business docs, not code)
 /context/
